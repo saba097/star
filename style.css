@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    background-color:#362F2D;
+    color: azure;
+    margin-left: auto;
+    width: auto;
+    height: 100px;
+   justify-content: center;
+ 
+}
+
+.icon
+{
+   margin-left: 160px;
+    padding: 30px;
+    display: flex;
+}
+.info {
+   display: flex;
+   justify-content: space-between;
+   margin: 30px;
+   margin-left: 80px;
+}
+
+.lan  
+{
+   display: flex;   
+   width: 30px;
+   height: 70px;
+   color: #362F2D;
+   justify-content: center
+   
+
+   
+   
+}
+
