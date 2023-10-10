@@ -9,7 +9,7 @@
     color: azure;
     margin-left: auto;
     width: auto;
-    height: 100px;
+    height: 80px;
    justify-content: center;
  
 }
@@ -25,6 +25,8 @@
    justify-content: space-between;
    margin: 30px;
    margin-left: 80px;
+   font-size: 12px;
+   margin-right: 330px;
 }
 
 .lan  
@@ -33,10 +35,67 @@
    width: 30px;
    height: 70px;
    color: #362F2D;
-   justify-content: center
-   
+   justify-content: center;
+}
 
+
+.sec3{
+   width: 1600px;
+   height: 50px;
+   font-weight: 20px;
+   
+   margin-bottom: 60px;
+   display: flex;
+   justify-content: center
+  
+}
+.services{
+   display: flex;
+   justify-content: flex-end;
+   justify-content: space-between;
+    width: 60%;
+    height: 260px;
+   
+    margin-left: 260px;
+  
+    
+    
+ 
+}
+
+.serviceInner{
+   background-color: #289bf4;
+   width: 200px;
+   height:200px;
+   text-align: center;
+ 
+  
+}
+.serviceInner img{
+   width: 3vh;
+   justify-content:center;
    
    
 }
 
+.our{
+   margin-bottom: 60px;
+   text-align: center;
+}
+
+
+.site-header {
+   display: flex;
+   justify-content: space-between;
+   justify-content: center;
+   align-items: center;
+   width: 80%;
+ }
+
+ .but
+ {
+background-color: #0588C1;
+width: 100px;
+height: 30px;
+margin-left: 30px;
+ }
